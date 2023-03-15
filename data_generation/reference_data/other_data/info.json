@@ -1,0 +1,16 @@
+{
+	"log_format_version":	1,
+	"note":	"na",
+	"n_channels":	1,
+	"start_time_monotonic_ns":	93927993088,
+	"start_time_date":	"1970-01-01 00:01:35",
+	"duration_s":	273.342006042,
+	"channels":	[{
+			"channel":	0,
+			"n_samples":	8027,
+			"n_to_skip":	0,
+			"type":	3,
+			"type_string":	"vio",
+			"pipe_path":	"/run/mpa/vvpx4_body_wrt_local/"
+		}]
+}
